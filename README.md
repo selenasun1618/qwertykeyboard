@@ -15,5 +15,4 @@ Qwerty keyboard GUI, made with PyGame.
 - To exit, click the red 'x' at the upper left corner of the display. If that doesn't work, quit PyGame from Dock (on MacOS).
 
 # Credits
-As specified in qwerty.py, some code was borrowed & edited from https://github.com/CoolNamesAllTaken/kiosk.
-Thank you to John McNelly for creating this challenge and for answering my questions (I can personally attest that he doesn't bite)!
+As specified in qwerty.py, some code was edited from https://github.com/CoolNamesAllTaken/kiosk.
